@@ -387,7 +387,7 @@ img {
 }
 
 .series {
-    padding: 63px;
+    /* padding: 63px; */
 
 }
 
@@ -567,5 +567,8 @@ img {
     .kong__title {
         font-size: 36px;
         line-height: 40px;
+    }
+    .widow .link{
+        margin: 0 auto;
     }
 }
