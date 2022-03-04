@@ -572,3 +572,11 @@ img {
         margin: 0 auto;
     }
 }
+
+@media (max-width: 353px) {
+    .kong__title {
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+    }
+}
